@@ -5,7 +5,7 @@ C64 Core: Connected and tested devices are a SD2IEC and a PI1541.
 The Case looks like the good old C64 Power Supply  
 <img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/Case.jpg" width="600" class="center" />
   
-All parts  
+All parts (Breakout Parts Version) 
 PCB, USB 3 Male Connector, Level Shifter (5V/3.3V), 3.3V Voltage Regulator, IEC 6Pin Female Connector, Power Female Connector  
 <img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/Parts.jpg" width="400" class="center" />
   
