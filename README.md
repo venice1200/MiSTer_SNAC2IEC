@@ -1,5 +1,6 @@
 # MiSTer_SNAC2IEC
-Commodore/CBM Adapter for MiSTer FPGA  
+Commodore/CBM IEC Adapter for MiSTer FPGA User Port (Serial IO)  
+https://github.com/MiSTer-devel/Main_MiSTer/wiki/User-Port-(Serial-IO)  
   
 ![Case](https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/Case.jpg?raw=true)  
   
