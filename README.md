@@ -4,7 +4,8 @@ Adapter to convert the MiSTer FPGA User Port (Serial IO) into a CBM IEC Connecto
 The Case looks like the old C64 Power Supply  
 <img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/Case.jpg" width="600" class="center" />
   
-All parts (PCB, USB 3.x Male Connector, Level Shifter (5V/3.3V), 3.3V Voltage Regulator, IEC Female Connector, Power Female Connector)  
+All parts  
+PCB, USB 3 Male Connector, Level Shifter (5V/3.3V), 3.3V Voltage Regulator, IEC 6Pin Female Connector, Power Female Connector  
 <img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/Parts.jpg" width="400" class="center" />
   
 PCB Completely solderred (Level Shifter Version)  
