@@ -1,7 +1,7 @@
 # MiSTer_SNAC2IEC
 Adapter to convert the MiSTer FPGA User Port (Serial IO) into a CBM IEC Connector to use it with compatible Cores like the C64 Core.  
   
-The Case looks like the old C64 Power Supply  
+The Case looks like the good old C64 Power Supply  
 <img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/Case.jpg" width="600" class="center" />
   
 All parts  
