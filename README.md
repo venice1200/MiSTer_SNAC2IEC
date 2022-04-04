@@ -14,7 +14,7 @@ All parts (Breakout Parts Version)
 * IEC 6Pin Female Connector
 * Power Female Connector  
   
-PCB Completely solderred (Level Shifter Version)  
+PCB Completely solderred (Version with Level Shifter)  
 <img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/Complete.jpg" width="400" class="center" />
   
 Open case  
