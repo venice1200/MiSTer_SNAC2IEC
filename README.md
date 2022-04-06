@@ -54,6 +54,9 @@ A look inside...
 ### Links:  
 *  https://github.com/MiSTer-devel/Main_MiSTer/wiki  
 *  https://github.com/MiSTer-devel/Main_MiSTer/wiki/User-Port-(Serial-IO)  
+*  https://github.com/MiSTer-devel/C64_MiSTer
+*  https://github.com/blue212/SNAC
+*  https://misterfpga.org/
   
   
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
