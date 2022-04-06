@@ -8,7 +8,7 @@ I used breakout Parts for the Level-Shifter and the Voltage-Regulator as I had t
 But there is also a Full-SMD-Version available, created by dtimber who created the Case as well.  
   
 ### Tested Cores:  
-**C64 Core** tested with SD2IEC and PI1541. I love it.  
+[**C64 Core**](https://github.com/MiSTer-devel/C64_MiSTer) tested with [SD2IEC](https://www.c64-wiki.com/wiki/SD2IEC) and [PI1541](https://cbm-pi1541.firebaseapp.com/). I love it 😏  
   
 ### Let's go...
 The PCB's  
