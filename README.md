@@ -2,8 +2,11 @@
 Inspired from the [SNAC Accessory Converter](https://github.com/blue212/SNAC) I created a little simple PCB (my first one).  
 It converts the MiSTer FPGA User Port (Serial IO/SNAC) into a Commodore IEC/CBM (Serial) Bus Port to use it with compatible Cores.  
   
-I know there are better and faster ways to load game into a MiSTer's Core, but this is fun.  
-
+I know there are better and faster ways to load a game into a MiSTer's Core, but this is fun.  
+  
+I used breakout Parts for the Level-Shifter and the Voltage-Regulator as I had them in stock.  
+But there is also a Full-SMD-Version available, created by dtimber who created the Case as well.  
+  
 ### Tested Cores:  
 **C64 Core:** Connected and tested with SD2IEC and PI1541. I love it 😃.  
   
@@ -24,7 +27,7 @@ Parts List:
 * 4-Channel Level Shifter (5V/3.3V)
 * 5V to 3.3V Voltage Regulator
 * IEC 6-Pin Female Connector
-* Power Connector (5.5mm/2.1mm)  
+* Power Connector (5.5mm/2.1mm)
   
 Soldered PCB, Version **with** Level Shifter, for Standard IO Board/SNAC Port with **3.3V** Signal Level.  
 <img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/Complete_with_Levelshifter.jpg" width="400" class="center" />  
@@ -38,7 +41,7 @@ Take a look inside
 <img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/Case_Open.jpg" width="400" class="center" />  
   
 ### Many Thanks to:
-*  [dtimber](https://github.com/dtimber) was helping me with KiCad and he is the Creator of the Case and the SMD-Version 🚀
+*  [dtimber](https://github.com/dtimber) was helping me with KiCad and he is the Creator of the Case and the **SMD-Version** 🚀
   
 ### Links:  
 https://github.com/MiSTer-devel/Main_MiSTer/wiki  
