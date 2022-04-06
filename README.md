@@ -3,7 +3,8 @@ Converts the MiSTer FPGA User Port (SNAC) into a Commodore IEC/CBM (Serial) Bus 
 C64 Core: Connected and tested devices are a SD2IEC and a PI1541.  
   
 The Case looks like the good old C64 Power Supply  
-<img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/Case.jpg" width="600" class="center" />
+<img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/Case_Front_Side.jpg" width="400" class="center" />
+<img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/Case_Back_Side.jpg" width="400" class="center" />
   
 All parts (Breakout Parts Version)  
 <img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/Parts.jpg" width="400" class="center" />
