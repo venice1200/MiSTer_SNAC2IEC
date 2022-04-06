@@ -35,7 +35,7 @@ Take a look inside
 <img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/Case_Open.jpg" width="400" class="center" />  
   
 ### Many Thanks to:
-*  [dtimber](https://github.com/dtimber) was helping me with KiCad and he was the Designer of the Case 🚀
+*  [dtimber](https://github.com/dtimber) was helping me with KiCad and he is the Designer of the Case 🚀
   
 ### Links:  
 https://github.com/MiSTer-devel/Main_MiSTer/wiki  
