@@ -35,11 +35,11 @@ Parts List:
 * IEC 6-Pin Female Connector
 * Power Connector (5.5mm/2.1mm)
   
-Soldered PCB Version **with** Level Shifter, for the Standard IO Board/SNAC Port with **3.3V** Signal Level.  
+Soldered PCB Version **with** Level Shifter, for the Standard IO Board with SNAC Port and **3.3V** Signal Level.  
 <img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/Complete_with_Levelshifter.jpg" width="400" class="center" />  
 You need all parts.
   
-Soldered PCB Version **without** Level Shifter, for the SNAC Port with integrated Level Shiter and **5V** Signal Level.  
+Soldered PCB Version **without** Level Shifter, for the SNAC Port with integrated Level Shifter and **5V** Signal Level.  
 <img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/Complete_no_Levelshifter.jpg" width="400" class="center" />  
 Just add some 0R 0805 Resistors or a blob of solder to R1,R2,R3 and R4.  
 
