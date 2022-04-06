@@ -8,11 +8,16 @@ I used breakout Parts for the Level-Shifter and the Voltage-Regulator as I had t
 But there is also a Full-SMD-Version available, created by dtimber who created the Case as well.  
   
 ### Tested Cores:  
-**C64 Core:** Connected and tested with SD2IEC and PI1541. I love it 😃.  
+**C64 Core** tested with SD2IEC and PI1541. I love it 😃.  
   
 ### Let's go...
+The PCB's  
+<img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/PCB_Top.jpg" width="400" class="center" /> 
+<img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/PCB_Top_SMD.jpg" width="400" class="center" />  
+Left Breakout Version, right SMD Version.
+  
 The Case looks like the C64 Power Supply  
-<img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/Case_Front_Side.jpg" width="400" class="center" />
+<img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/Case_Front_Side.jpg" width="400" class="center" /> 
 <img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/Case_Back_Side.jpg" width="400" class="center" />  
   
 Connector View  
