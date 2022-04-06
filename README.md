@@ -11,7 +11,7 @@ But there is also a Full-SMD-Version available, created by dtimber who created t
 ### Tested Cores:  
 [**C64 Core**](https://github.com/MiSTer-devel/C64_MiSTer) tested with [SD2IEC](https://www.c64-wiki.com/wiki/SD2IEC) and [PI1541](https://cbm-pi1541.firebaseapp.com/). I love it 😏  
   
-### Let's go...
+### Let's go and have fun...
 The PCB's  
 <img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/PCB_Top.jpg" width="400" class="center" /> 
 <img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/PCB_Top_SMD.jpg" width="400" class="center" />  
