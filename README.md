@@ -22,7 +22,7 @@ Solderred PCB, Version **with** Level Shifter, for Standard IO Board/SNAC Port w
 Solderred PCB, Version **without** Level Shifter, for a SNAC Port with **5V** Signal Level.  
 <img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/Complete_no_Levelshifter.jpg" width="400" class="center" />
 
-Take a look inside
+Take a look inside  
 <img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/Case_Open.jpg" width="400" class="center" />
   
 Many Thanks to:
