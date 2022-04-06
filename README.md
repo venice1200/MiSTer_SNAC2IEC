@@ -2,6 +2,8 @@
 Inspired from the [SNAC Accessory Converter](https://github.com/blue212/SNAC) I created this little PCB (my first one).  
 It converts the MiSTer FPGA User Port (Serial IO/SNAC) into a Commodore IEC/CBM (Serial) Bus Port to use it with compatible Cores.  
   
+I know there are better and faster ways to load game into a MiSTer's Core, but this is fun.
+
 ### Tested Cores:  
 **C64 Core:** Connected and tested with SD2IEC and PI1541. I love it 😃.  
   
