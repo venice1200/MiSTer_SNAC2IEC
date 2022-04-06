@@ -2,6 +2,7 @@
 Inspired from the [SNAC Accessory Converter](https://github.com/blue212/SNAC) and the IEC Support of the C64 Core I created together with dtimber this little Adapter PCB.  
 The Adapter converts the MiSTer FPGA User Port (Serial IO) into a Commodore IEC/CBM (Serial) Bus Port.  
 Use it with compatible Cores.  
+Use the Adapter to connect a real Commodore Floppy 1541 or compatible devices (SD2IEC/PI1541) to your MiSTer.  
   
 I know there are better and faster ways to load a game into a MiSTer's Core, but this is fun 🚀.  
   
