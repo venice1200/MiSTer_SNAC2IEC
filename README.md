@@ -15,14 +15,17 @@ All parts (Breakout Parts Version)
 * IEC 6Pin Female Connector
 * Power Female Connector  
   
-PCB Completely solderred (Version with Level Shifter)  
-<img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/Complete.jpg" width="400" class="center" />
+PCB Completely solderred (Version **with** Level Shifter) for a "normal" MiSTer and 3.3V Signal Level. 
+<img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/Complete_with_Levelshifter.jpg" width="400" class="center" />
   
+PCB Completely solderred (Version **without** Level Shifter) for a SNAC Port with 5V Signal Level.  
+<img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/Complete_no_Levelshifter.jpg" width="400" class="center" />
+
 Open case  
 <img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/Case_Open.jpg" width="400" class="center" />
   
 Many Thanks to:
-*  d.timber helping me with KiCad and Designer of the Case
+*  d.timber was helping me with KiCad and he was the Designer of the Case
   
 Links:  
 https://github.com/MiSTer-devel/Main_MiSTer/wiki  
