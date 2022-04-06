@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "VeniceFootprints")(type "KiCad")(uri "${KIPRJMOD}/Footprints_und_Symbole/VeniceFootprints.pretty")(options "")(descr ""))
+)
