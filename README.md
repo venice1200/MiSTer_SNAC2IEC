@@ -8,6 +8,7 @@ The Case looks like the good old C64 Power Supply
   
 All parts (Breakout Parts Version)  
 <img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/Parts.jpg" width="400" class="center" />
+Parts List:  
 * PCB
 * USB 3 Male Connector 
 * Level Shifter (5V/3.3V)
@@ -15,13 +16,13 @@ All parts (Breakout Parts Version)
 * IEC 6Pin Female Connector
 * Power Female Connector  
   
-PCB Completely solderred (Version **with** Level Shifter) for a "normal" MiSTer and 3.3V Signal Level. 
+Solderred PCB, Version **with** Level Shifter, for Standard IO Board/SNAC Port with **3.3V** Signal Level.  
 <img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/Complete_with_Levelshifter.jpg" width="400" class="center" />
   
-PCB Completely solderred (Version **without** Level Shifter) for a SNAC Port with 5V Signal Level.  
+Solderred PCB, Version **without** Level Shifter, for a SNAC Port with **5V** Signal Level.  
 <img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/Complete_no_Levelshifter.jpg" width="400" class="center" />
 
-Open case  
+Take a look inside
 <img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/Case_Open.jpg" width="400" class="center" />
   
 Many Thanks to:
