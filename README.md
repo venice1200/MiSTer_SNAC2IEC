@@ -58,6 +58,7 @@ A look inside...
 *  https://github.com/MiSTer-devel/C64_MiSTer
 *  https://github.com/blue212/SNAC
 *  https://misterfpga.org/
+*  https://misterfpga.org/viewtopic.php?t=4469
   
   
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
