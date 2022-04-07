@@ -10,7 +10,7 @@ I know there are better and faster ways to load a game into a MiSTer's Core, but
 [**C64 Core**](https://github.com/MiSTer-devel/C64_MiSTer) tested with [SD2IEC](https://www.c64-wiki.com/wiki/SD2IEC) and [PI1541](https://cbm-pi1541.firebaseapp.com/). I love it 😏  
   
 ### Let's go and have fun...
-I used breakout Parts for the used Voltage-Level-Shifter and the Voltage-Regulator as I had them in stock.  
+I used "breakout Parts" for the used Voltage-Levelshifter and the Voltage-Regulator as I had them in stock.  
 But there is also a Full-SMD-Version available, created by dtimber who created the Case as well.  
   
 The PCB's  
@@ -31,7 +31,7 @@ All parts (Breakout Version)
 Parts List:  
 * The PCB
 * USB 3.x Male Connector 
-* 4-Channel Level Shifter (5V/3.3V)
+* 4-Channel Voltage-Levelshifter (5V/3.3V)
 * 5V to 3.3V Voltage Regulator
 * IEC 6-Pin Female Connector
 * Power Connector (5.5mm/2.1mm)
