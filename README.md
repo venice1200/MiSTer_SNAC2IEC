@@ -43,7 +43,7 @@ A look inside...
 All Parts for the Breakout-Version  
 <img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/Parts.jpg" width="400" class="center" />  
   
-**BOM Breakout Version**  
+### BOM Breakout Version  
 |Part|Type|
 |:---|:---|
 |R1-R4|0 ohm 0805 resistors (optional)|
@@ -53,7 +53,7 @@ All Parts for the Breakout-Version
 |U1|4-Channel Voltage-Levelshifter (5V/3.3V)|
 |U2|5V to 3.3V Voltage Regulator|
   
-**BOM Full-SMD-Version**  
+### BOM Full-SMD-Version  
 |Part|Type|
 |:---|:---|
 |R1-R4|0 ohm 0805 resistors (optional)|
@@ -65,7 +65,7 @@ All Parts for the Breakout-Version
 |J2|6 pin DIN connector|
 |J3|DC barrel connector (5.5/2.1 mm should be fine for most PSUs)|  
   
-**Screws and Brass Nuts**  
+### Screws and Brass Nuts  
 |Part|Type|
 |:---|:---|
 |Brass Nuts|M3, outer size 4,6mm, lenght 6mm|
