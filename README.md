@@ -69,7 +69,7 @@ All Parts for the Breakout-Version
 |Part|Type|
 |:---|:---|
 |Brass Nuts|M3, outer size 4,6mm, lenght 6mm|
-|Screws|M3, Counter Sunk, thread lenght 15mm, overall length 17mm|
+|Screws|M3, Counter Sunk, length 17mm|
   
   
 ### Many Thanks to:
