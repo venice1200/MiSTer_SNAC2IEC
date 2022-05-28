@@ -65,6 +65,13 @@ All Parts for the Breakout-Version
 |J2|6 pin DIN connector|
 |J3|DC barrel connector (5.5/2.1 mm should be fine for most PSUs)|  
   
+**Screws and Brass Nuts**  
+|Part|Type|
+|:---|:---|
+|Brass Nuts|M3, outer size 4,6mm, lenght 6mm|
+|Screws|M3, Counter Sunk, thread lenght 15mm, overall length 17mm|
+  
+  
 ### Many Thanks to:
 *  [dtimber](https://github.com/dtimber) was helping me with KiCad and he is the Creator of the Case and the **SMD-Version**.
   
