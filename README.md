@@ -11,7 +11,7 @@ I know there are better and faster ways to load a game into a MiSTer's Core, but
   
 ### Let's go and have fun...
 I used "breakout Parts" for the used Voltage-Levelshifter and the Voltage-Regulator as I had them in stock.  
-But there is also a Full-SMD-Version available, created by dtimber who created the Case as well.  
+There is also a Full-SMD-Version available, created by dtimber who created the Case as well.  
   
 The PCB's  
 <img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/PCB_Top.jpg" width="400" class="center" /> 
@@ -28,12 +28,12 @@ Connector View
 Left Connector = IEC/CBM Bus, right Connector = 5V Power from SNAC Port  
                                                      
 Soldered PCB Version **with** Level Shifter.  
-For the Standard IO Board with SNAC Port and **3.3V** Signal Level.  
+Use it with the Standard IO Board with SNAC Port and **3.3V** Signal Level.  
 <img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/Complete_with_Levelshifter.jpg" width="400" class="center" />  
-You need all parts.
+You need all parts except the "optional's".
   
 Soldered PCB Version **without** Level Shifter.  
-For the SNAC Port with integrated Level Shifter and **5V** Signal Level.  
+Use it with SNAC Port's with integrated Level Shifter or with blue212's external SNAC Adapter and **5V** Signal Level.  
 <img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/Complete_no_Levelshifter.jpg" width="400" class="center" />  
 Just add some 0R 0805 Resistors or a blob of solder to R1,R2,R3 and R4.  
 
