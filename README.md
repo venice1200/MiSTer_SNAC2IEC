@@ -46,7 +46,8 @@ All Parts for the Breakout-Version
 ### BOM Breakout Version  
 |Part|Type|
 |:---|:---|
-|R1-R4|0 ohm 0805 resistors (optional)|
+|R1-R4|0 ohm 0805 resistors (optional, see schematics)|
+|C1|4,7uF 0805 capacitor (optional, see schematics)|
 |J1|USB3 type A connector|
 |J2|6 pin DIN connector|
 |J3|DC barrel connector (5.5/2.1 mm should be fine for most PSUs)|  
