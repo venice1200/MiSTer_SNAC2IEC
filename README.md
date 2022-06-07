@@ -1,5 +1,6 @@
 # MiSTer_SNAC2IEC
-Inspired from the [SNAC Accessory Converter](https://github.com/blue212/SNAC) and the IEC Support of the C64 Core I created together with dtimber this little Adapter PCB for the MiSTer FPGA.  
+Inspired from the [SNAC Accessory Converter](https://github.com/blue212/SNAC) and the IEC Support of the C64 Core  
+I created together with dtimber this little Adapter PCB for the MiSTer FPGA.  
   
 The Adapter converts the MiSTer FPGA User Port (Serial IO) into a Commodore IEC/CBM (Serial) Bus Port.    
 Use the Adapter to connect a real Commodore Floppy 1541 or compatible devices (SD2IEC/PI1541) to your MiSTer.  
