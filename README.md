@@ -58,7 +58,7 @@ All Parts for the Breakout-Version
 ### BOM Full-SMD-Version  
 |Part|Type|
 |:---|:---|
-|R1-R4|0 ohm 0805 resistors (optional)|
+|R1-R4|0 ohm 0805 resistors (optional, see schematics)|
 |R5-R12|10k 0805 resistors|
 |C1-C3|22nf 0805 capacitors|
 |Q1-Q4|N-Channel SOT23 MOSFET transistors (BSS138 or similar)|
