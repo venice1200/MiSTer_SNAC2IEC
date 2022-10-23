@@ -86,5 +86,10 @@ All Parts for the Breakout-Version
 *  https://misterfpga.org/
 *  https://misterfpga.org/viewtopic.php?t=4469
   
-  
+### User-Videos:  
+* https://youtu.be/zR52L662JqI
+* https://www.youtube.com/watch?v=zR52L662JqI
+* https://www.youtube.com/watch?v=jKdF6Q4ZU_g
+* https://www.youtube.com/watch?v=Q-g8Mt_xXnU
+    
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
