@@ -10,6 +10,7 @@ I know there are better and faster ways to load a game into a MiSTer's Core, but
 ### Compatible & Tested Cores:  
 C64, C128, Commodore Plus/4  
 [**C64**](https://github.com/MiSTer-devel/C64_MiSTer) Core tested with [SD2IEC](https://www.c64-wiki.com/wiki/SD2IEC) and [PI1541](https://cbm-pi1541.firebaseapp.com/). I love it 😏  
+Double check the User Video Links below.   
   
 ### Let's go and have fun...
 I used "breakout Parts" for the used Voltage-Levelshifter and the Voltage-Regulator as I had them in stock.  
