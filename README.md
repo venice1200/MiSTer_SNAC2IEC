@@ -53,7 +53,7 @@ All Parts for the Breakout-Version
 |C1|4,7uF 0805 capacitor (optional, see schematics)|
 |J1|USB3 type A connector|
 |J2|6 pin DIN connector|
-|J3|DC barrel connector (5.5/2.1 mm should be fine for most PSUs)|  
+|J3|DC barrel connector (optional, 5.5/2.1 mm should be fine for most PSUs)|  
 |U1|4-Channel Voltage-Levelshifter (5V/3.3V)|
 |U2|5V to 3.3V Voltage Regulator|
   
@@ -67,7 +67,7 @@ All Parts for the Breakout-Version
 |U1|3.3v LM1117 SOT223 regulator|
 |J1|USB3 type A connector|
 |J2|6 pin DIN connector|
-|J3|DC barrel connector (5.5/2.1 mm should be fine for most PSUs)|  
+|J3|DC barrel connector (optional, 5.5/2.1 mm should be fine for most PSUs)|  
   
 ### Screws and Brass Nuts  
 |Part|Type|
