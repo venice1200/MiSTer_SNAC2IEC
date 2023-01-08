@@ -7,9 +7,11 @@ Use the Adapter to connect a real Commodore Floppy 1541 or compatible devices (S
   
 I know there are better and faster ways to load a game into a MiSTer's Core, but this is fun 🚀.  
   
-### Compatible & Tested Cores:  
+### Compatible & Tested Cores  
 C64, C128, Commodore Plus/4  
-[**C64**](https://github.com/MiSTer-devel/C64_MiSTer) Core tested with [SD2IEC](https://www.c64-wiki.com/wiki/SD2IEC) and [PI1541](https://cbm-pi1541.firebaseapp.com/). I love it 😏  
+### Tested Hardware  
+[SD2IEC](https://www.c64-wiki.com/wiki/SD2IEC), [PI1541](https://cbm-pi1541.firebaseapp.com/), CBM 1541, CBM1541-II and CBM 1571.  
+  
 Double check the User Video Links below.   
   
 ### Let's go and have fun...
@@ -92,5 +94,6 @@ All Parts for the Breakout-Version
 * https://www.youtube.com/watch?v=zR52L662JqI
 * https://www.youtube.com/watch?v=jKdF6Q4ZU_g
 * https://www.youtube.com/watch?v=Q-g8Mt_xXnU
+* https://www.youtube.com/watch?v=LXGE7Ap88mE
     
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
