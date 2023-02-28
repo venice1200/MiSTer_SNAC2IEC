@@ -70,7 +70,7 @@ All Parts for the Breakout-Version
 |J1|USB3 type A connector|
 |J2|6 pin DIN connector|
 |J3|DC barrel connector (optional, 5.5/2.1 mm should be fine for most PSUs)|  
-|U1|4-Channel Voltage-Levelshifter (5V/3.3V), use two stacked Levelshifter for SRQ usage|
+|U1|4-Channel Voltage-Levelshifter (5V/3.3V), add a second ***stacked*** Levelshifter for SRQ|
 |U2|5V to 3.3V Voltage Regulator|
   
 ### BOM Full-SMD-Version  
