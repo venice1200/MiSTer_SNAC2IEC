@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "SNAC2IEC_Breakout-rescue")(type "Legacy")(uri "${KIPRJMOD}/SNAC2IEC_Breakout-rescue.lib")(options "")(descr ""))
+)
