@@ -11,7 +11,8 @@ I know there are better and faster ways to load a game into a MiSTer's Core, but
 C64, C128, Commodore Plus/4  
 ### Tested Hardware  
 [SD2IEC](https://www.c64-wiki.com/wiki/SD2IEC), [PI1541](https://cbm-pi1541.firebaseapp.com/), CBM 1541, CBM1541-II and CBM 1571.  
-Also tested with **JiffyDos** 🚀.  
+  
+Core and Hardware also tested with **JiffyDos** 🚀.  
   
 Double check the User Video below.   
   
