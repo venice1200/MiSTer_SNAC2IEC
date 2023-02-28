@@ -18,12 +18,21 @@ Double check the User Video Links below.
 I used "breakout Parts" for the used Voltage-Levelshifter and the Voltage-Regulator as I had them in stock.  
 There is also a Full-SMD-Version available, created by dtimber who created the Case as well.  
   
-The PCB's  
+## PCB's
+### First Versions (Breakout v1.1/SMD v1.0)
+The first Picture shows the "Breakout Version", the second the "Full-SMD Version".  
 <img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/PCB_Top.jpg" width="400" class="center" /> 
 <img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/PCB_Top_SMD.jpg" width="400" class="center" />  
-The first Picture shows the "Breakout Version", the second the "Full-SMD Version".  
   
+### Updated Version(s) (Breakout v1.2)  
+Changes:
+  * Added support for the SQR Signal which is needed by the C128 Core for **Fast Serial**  
+    The Breakout Version v1.2 need a second Leveshifter on Top of the first one to support the SRQ Signal.  
+    Solder two small cables from the Pins LV5 and HV5 to one channel of the second Levelshifter.  
+  * Removed 5V support which need a Standard SNAC Adapter connected before SNAC2IEC  
+<img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/PCB_Top_v1.2.png" width="400" class="center" />  
 
+## More Pictures
 The Case was designed to look like the C64 Power Supply  
 <img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/Case_Front_Side.jpg" width="400" class="center" /> 
 <img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/Case_Back_Side.jpg" width="400" class="center" />  
@@ -38,6 +47,7 @@ Use it with the Standard IO Board with SNAC Port and **3.3V** Signal Level.
 You need all parts except the "optional's".
   
 Soldered PCB Version **without** Level Shifter.  
+Only usable with the "first" PCB Versions.  
 Use it with SNAC Port's with integrated Level Shifter or with blue212's external SNAC Adapter and **5V** Signal Level.  
 <img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/Complete_no_Levelshifter.jpg" width="400" class="center" />  
 Just add some 0R 0805 Resistors or a blob of solder to R1,R2,R3 and R4.  
@@ -56,7 +66,7 @@ All Parts for the Breakout-Version
 |J1|USB3 type A connector|
 |J2|6 pin DIN connector|
 |J3|DC barrel connector (optional, 5.5/2.1 mm should be fine for most PSUs)|  
-|U1|4-Channel Voltage-Levelshifter (5V/3.3V)|
+|U1|4-Channel Voltage-Levelshifter (5V/3.3V), use two stacked Levelshifter for SRQ usage|
 |U2|5V to 3.3V Voltage Regulator|
   
 ### BOM Full-SMD-Version  
