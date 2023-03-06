@@ -10,9 +10,9 @@ I know there are better and faster ways to load a game into a MiSTer's Core, but
 ### Compatible & Tested Cores  
 C64, C128, Commodore Plus/4  
 ### Tested Hardware  
-[SD2IEC](https://www.c64-wiki.com/wiki/SD2IEC), [PI1541](https://cbm-pi1541.firebaseapp.com/), CBM 1541, CBM1541-II and CBM 1571.  
+[SD2IEC](https://www.c64-wiki.com/wiki/SD2IEC), [PI1541](https://cbm-pi1541.firebaseapp.com/), CBM 1541, CBM1541-II, CBM1571 and CBM1581.  
   
-Core and Hardware also tested with **JiffyDos** 🚀.  
+Core and some Hardware is also tested with **JiffyDos** 🚀.  
   
 Double check the User Video below.   
   
@@ -33,10 +33,11 @@ Changes:
   * Added support for the SRQ Signal which is needed by the C128 Core for **Fast Serial Mode**.  
     The Breakout Version v1.2 need a second Leveshifter **on Top** of the first one to support the SRQ Signal.  
     Solder two small cables from the Pins LV5 and HV5 to one channel of the second Levelshifter.  
-  * Removed 5V support (R1-R4) which need a Standard SNAC Adapter connected before SNAC2IEC.  
+  * Removed 5V support (R1-R4) which needs a Standard SNAC Adapter connected before SNAC2IEC.  
   
-<img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/PCB_Top_v1.2.png" width="350" class="center" /> 
-<img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/PCB_Top_SMD_v1.1.png" width="350" class="center" />  
+The first Picture shows the "Breakout Version", the second the "Full-SMD Version".  
+<img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/PCB_Top_v1.2.png" width="400" class="center" /> 
+<img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/PCB_Top_SMD_v1.1.png" width="400" class="center" />  
   
 ## More Pictures
 The Case was designed to look like the C64 Power Supply  
