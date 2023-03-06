@@ -21,14 +21,16 @@ I used "breakout Parts" for the used Voltage-Levelshifter and the Voltage-Regula
 There is also a Full-SMD-Version available, created by dtimber who created the Case as well.  
   
 ## PCB's
-### First Versions (Breakout v1.1/SMD v1.0)
+### First Versions  
+### Breakout v1.1/SMD v1.0
 The first Picture shows the "Breakout Version", the second the "Full-SMD Version".  
 <img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/PCB_Top.jpg" width="400" class="center" /> 
 <img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/PCB_Top_SMD.jpg" width="400" class="center" />  
   
-### Updated Version(s) (Breakout v1.2)  
+### Updated Version(s)  
+### Breakout v1.2  
 Changes:
-  * Added support for the SRQ Signal which is needed by the C128 Core for **Fast Serial**  
+  * Added support for the SRQ Signal which is needed by the C128 Core for **Fast Serial Mode**.  
     The Breakout Version v1.2 need a second Leveshifter **on Top** of the first one to support the SRQ Signal.  
     Solder two small cables from the Pins LV5 and HV5 to one channel of the second Levelshifter.  
   * Removed 5V support (R1-R4) which need a Standard SNAC Adapter connected before SNAC2IEC.  
@@ -68,7 +70,7 @@ All Parts for the Breakout-Version
 |J1|USB3 type A connector|
 |J2|6 pin DIN connector|
 |J3|DC barrel connector (optional, 5.5/2.1 mm should be fine for most PSUs)|  
-|U1|4-Channel Voltage-Levelshifter (5V/3.3V), use two stacked Levelshifter for SRQ usage|
+|U1|4-Channel Voltage-Levelshifter (5V/3.3V), add a second ***stacked*** Levelshifter for SRQ|
 |U2|5V to 3.3V Voltage Regulator|
   
 ### BOM Full-SMD-Version  
