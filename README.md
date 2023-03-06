@@ -28,14 +28,16 @@ The first Picture shows the "Breakout Version", the second the "Full-SMD Version
 <img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/PCB_Top_SMD.jpg" width="400" class="center" />  
   
 ### Updated Version(s)  
-### Breakout v1.2  
+### Breakout v1.2/SMD 1.1  
 Changes:
   * Added support for the SRQ Signal which is needed by the C128 Core for **Fast Serial Mode**.  
     The Breakout Version v1.2 need a second Leveshifter **on Top** of the first one to support the SRQ Signal.  
     Solder two small cables from the Pins LV5 and HV5 to one channel of the second Levelshifter.  
   * Removed 5V support (R1-R4) which need a Standard SNAC Adapter connected before SNAC2IEC.  
-<img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/PCB_Top_v1.2.png" width="400" class="center" />  
-
+  
+<img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/PCB_Top_v1.2.png" width="350" class="center" /> 
+<img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/PCB_Top_SMD_v1.1.png" width="350" class="center" />  
+  
 ## More Pictures
 The Case was designed to look like the C64 Power Supply  
 <img src="https://github.com/venice1200/MiSTer_SNAC2IEC/blob/main/Pictures/Case_Front_Side.jpg" width="400" class="center" /> 
