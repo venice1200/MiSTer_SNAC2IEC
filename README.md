@@ -71,12 +71,12 @@ All Parts for the Breakout-Version
 |R1-R4|0 ohm 0805 resistors (optional, see schematics)|
 |C1|4,7uF 0805 capacitor (optional, see schematics)|
 |J1|USB3 type A connector|
-|J2|6 pin DIN connector|
+|J2|6 pin DIN connector (MAS60)|
 |J3|DC barrel connector (optional, 5.5/2.1 mm should be fine for most PSUs)|  
 |U1|4-Channel Voltage-Levelshifter (5V/3.3V), add a second ***stacked*** Levelshifter for SRQ|
 |U2|5V to 3.3V Voltage Regulator|
   
-### BOM Full-SMD-Version  
+### BOM Full-SMD-Version v1.0 
 |Part|Type|
 |:---|:---|
 |R1-R4|0 ohm 0805 resistors (optional, see schematics)|
@@ -85,7 +85,18 @@ All Parts for the Breakout-Version
 |Q1-Q4|N-Channel SOT23 MOSFET transistors (BSS138 or similar)|
 |U1|3.3v LM1117 SOT223 regulator|
 |J1|USB3 type A connector|
-|J2|6 pin DIN connector|
+|J2|6 pin DIN connector (MAS60)|
+|J3|DC barrel connector (optional, 5.5/2.1 mm should be fine for most PSUs)|  
+  
+### BOM Full-SMD-Version v1.1 
+|Part|Type|
+|:---|:---|
+|R1-R10|10k 0805 resistors|
+|C1-C3|22nf 0805 capacitors|
+|Q1-Q5|N-Channel SOT23 MOSFET transistors (BSS138 or similar)|
+|U1|3.3v LM1117 SOT223 regulator|
+|J1|USB3 type A connector|
+|J2|6 pin DIN connector (MAS60)|
 |J3|DC barrel connector (optional, 5.5/2.1 mm should be fine for most PSUs)|  
   
 ### Screws and Brass Nuts  
